@@ -1,0 +1,140 @@
+Fonte: https://conjur.com.br/2026-set-03/stf-fixa-renda-de-r-5-mil-como-parametro-para-concessao-de-justica-gratuita/
+Consultado em: 14/10/2026 01:00
+
+Skip to content
+
+Régua da pobreza
+
+STF fixa renda de R$ 5 mil como teto para concessão de Justiça gratuita
+
+Karla Gamba
+
+3 de setembro de 2026, 20h36
+
+Constitucional Processo Trabalhista
+
+O teto para a concessão da Justiça gratuita é a renda mensal de R$ 5 mil. Quem recebe até esse valor terá presunção relativa de insuficiência de recursos, enquanto que, acima desse patamar, caberá ao interessado demonstrar que não tem condições de arcar com as despesas do processo. Esse entendimento foi adotado pelo Plenário do Supremo Tribunal Federal na sessão desta quinta-feira (3/9), no julgamento da ADC 80.
+
+Prevaleceu a corrente aberta pelo ministro Gilmar Mendes, que divergiu do relator, ministro Edson Fachin, afastando o critério implantado pela reforma trabalhista de 2017, segundo o qual o benefício poderia ser concedido a quem recebesse salário igual ou inferior a 40% do teto dos benefícios do Regime Geral de Previdência Social.
+
+Rosinei Coutinho/STFDecisão prevê que a presunção de insuficiência não é absoluta
+
+O novo limite acompanha o valor estabelecido pela legislação do Imposto de Renda. Na solução adotada pelo STF, alterações desse patamar na norma tributária serão automaticamente refletidas no critério para a Justiça gratuita. Caso a tabela não seja atualizada anualmente, o valor deverá ser corrigido pelo IPCA.
+
+A tese proposta por Gilmar e acolhida pela maioria dos ministros fixa um teto de renda mais alto, em relação à proposta de Fachin. No entanto, impõe critérios mais rigorosos para a concessão do benefício da gratuidade.
+
+Ainda de acordo com a decisão, a presunção de insuficiência para quem recebe até R$ 5 mil não é absoluta. O juiz poderá negar o benefício se identificar patrimônio ou renda familiar incompatível com a alegada falta de recursos, mediante análise das circunstâncias do caso concreto. O magistrado também poderá exigir documentos adicionais para avaliar a situação financeira do requerente.
+
+Histórico do caso
+
+A ação foi ajuizada pela Confederação Nacional do Sistema Financeiro (Consif), que questionou a forma como a Justiça do Trabalho vinha interpretando as exigências para a concessão da gratuidade. A entidade sustentou que o benefício era concedido de maneira excessivamente ampla, inclusive a trabalhadores com remunerações elevadas.
+
+O julgamento começou em 2025. Fachin votou pela manutenção do critério de 40% do teto previdenciário e defendeu que a declaração de insuficiência econômica pudesse ser utilizada como meio de comprovação da falta de recursos.
+
+Gilmar abriu a divergência ao propor a substituição desse parâmetro pelo limite de isenção do Imposto de Renda. A proposta foi posteriormente ajustada a partir de ponderações apresentadas pelo ministro Cristiano Zanin. No julgamento virtual promovido em abril, os ministros Alexandre de Moraes, Flávio Dino e Dias Toffoli já haviam acompanhado a corrente de Gilmar. Fachin, então, pediu destaque, levando a discussão para o Plenário presencial, fazendo com que a votação fosse reiniciada.
+
+Divergência de Gilmar
+
+Na retomada do julgamento, nesta quinta, Fachin manteve a posição de que a autodeclaração é um instrumento relevante para assegurar o acesso ao Judiciário. Para o relator, a exigência de uma comprovação mais rigorosa da insuficiência econômica pode criar obstáculos especialmente para pessoas em situação de vulnerabilidade. A ministra Cármen Lúcia acompanhou o voto de Fachin.
+
+A maioria, porém, considerou necessário estabelecer critérios objetivos para compatibilizar o direito constitucional de acesso à Justiça com a exigência de demonstração da insuficiência de recursos prevista na própria Constituição, conforme defendeu Gilmar.
+
+Para o decano da corte, a existência de regras mais rigorosas para cidadãos que litigam na Justiça trabalhista, enquanto pessoas em situação econômica semelhante podem obter o benefício nos demais ramos do Judiciário com base na autodeclaração, cria uma diferença de tratamento incompatível com o princípio constitucional da igualdade.
+
+Gilmar classificou a situação como uma “omissão parcial relativa”. Em sua avaliação, o problema constitucional não está propriamente na existência dos critérios previstos na Consolidação das Leis do Trabalho, mas na ausência de disciplina equivalente para os demais processos judiciais. A solução, até que o Congresso legisle sobre o assunto, é uniformizar os parâmetros em todo o Judiciário, segundo o voto vencedor.
+
+O decano do STF propôs que as novas regras tenham efeitos apenas para o futuro — a modulação sugerida estabelece que a decisão vale a partir da publicação da ata do julgamento de mérito e alcança somente processos ajuizados depois desse marco.
+
+Os ministros Flávio Dino, Cristiano Zanin, André Mendonça, Nunes Marques, Alexandre de Moraes, Dias Toffoli e Luiz Fux acompanharam o voto divergente.
+
+Regra valerá além da Justiça do Trabalho
+
+Embora a ação tenha sido proposta para discutir dispositivos da CLT, os ministros decidiram estender os parâmetros estabelecidos no julgamento aos demais ramos do Poder Judiciário, com exceção dos Juizados Especiais, nos quais há disciplina própria para o acesso em primeiro grau.
+
+Para isso, a corte reconheceu uma omissão parcial nos parágrafos 3º e 4º do artigo 790 da CLT e estabeleceu a aplicação das novas regras até que o Legislativo discipline a matéria.
+
+O STF também declarou inconstitucional o item I da Súmula 463 do Tribunal Superior do Trabalho. O enunciado permitia, para pessoas físicas, a concessão da assistência judiciária gratuita a partir de declaração de hipossuficiência econômica. Porém, a maioria entendeu que a autodeclaração, isoladamente, não pode ser utilizada de maneira irrestrita para assegurar o benefício.
+
+Tese fixada
+
+Ao final, foi fixada a seguinte tese:
+
+É inconstitucional a expressão “40% do limite máximo dos benefícios do Regime Geral de Previdência Social”, constante do artigo 790, §3º, da CLT;
+
+Até nova legislação, haverá presunção relativa de insuficiência de recursos para quem recebe salário igual ou inferior a R$ 5 mil. Atualizações desse valor na legislação do Imposto de Renda serão automaticamente refletidas no parâmetro; se não houver atualização anual, o montante será corrigido pelo IPCA;
+
+Quem receber acima de R$ 5 mil deverá demonstrar concretamente a insuficiência de recursos para obter a gratuidade;
+
+Mesmo abaixo desse valor, o magistrado poderá negar o benefício se verificar patrimônio ou renda familiar incompatíveis com a presunção de hipossuficiência;
+
+O ônus de comprovar a renda ou a insuficiência financeira cabe a quem requer a gratuidade, e o magistrado poderá exigir documentação adicional;
+
+As regras deverão ser aplicadas a todos os ramos do Poder Judiciário, e não apenas à Justiça do Trabalho, até adequação legislativa;
+
+É inconstitucional a súmula 463, I, do TST;
+
+A decisão terá efeitos ex nunc, a partir da publicação da ata do julgamento de mérito, alcançando apenas processos ajuizados a partir desse marco;
+
+A presunção de hipossuficiência também se aplica aos assistidos pela Defensoria Pública, enquanto os Juizados Especiais ficam excluídos da tese.
+
+Clique aqui para ler o voto divergente de Gilmar
+
+Clique aqui para ler o complemento do voto de Gilmar
+
+ADC 80
+
+Compartilhar:
+
+Facebook
+
+X (Twitter)
+
+LinkedIn
+
+WhatsApp
+
+Telegram
+
+PDF
+
+Imprimir
+
+Karla Gamba
+
+é correspondente da revista Consultor Jurídico em Brasília.
+
+ALEXANDRE VAZ disse:
+
+04 de setembro de 2026 às 07:54
+
+Meu amigo, com a devida venia, esse título não reflete fielmente o teor da decisão do STF. O valor de R$ 5.000,00 não é um teto para concessão do benefício da justiça, segundo julgamento da ADC 80 e sim um limite objetivo para concessão do benefício, sem tem que comprovar hipossuficiência. Até por que ficou consignado no julgamento que acima desse valor é necessário provar a hipossuficiência. Então o valor de R$ 5.000,00 não é um teto e sim um parâmetro objetivo para concessão automática, sem prejuizo da possibilidade de comprovação da hipossuficiência para quem tem renda maior que esse valor.
+
+Você precisa estar logado para enviar um comentário.
+
+Fazer login
+
+VER COMENTÁRIOS
+
+Tags: Consifgratuidade da justiçajustiça do trabalhojustiça gratuitajustiça trabalhistareforma trabalhistaSTF
+
+Leia também
+
+RÉGUA DA POBREZA
+STF retoma hoje julgamento sobre gratuidade para Justiça do Trabalho
+
+SALDO POSITIVO
+Alta renda afasta Justiça gratuita na declaração de hipossuficiência
+
+OPINIÃO
+Trabalho: justiça gratuita não pode ser considerada um privilégio
+
+OPINIÃO
+Justiça gratuita: acesso não é sinônimo de litigância sem custos
+
+OPINIÃO
+Gratuidade é o próximo alvo no suposto enfrentamento da litigância
+
+TÚNEL DO TEMPO
+STJ vai definir se gratuidade de justiça tem efeitos retroativos
+
+Anuncie
