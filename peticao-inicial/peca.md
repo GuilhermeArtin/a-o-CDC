@@ -1,7 +1,5 @@
 <!-- word:inicio -->
 
-[[QUADRO]]
-
 ## 1. DO SUBSTABELECIMENTO COM RESERVA DE PODERES
 
 [[SINTESE]] O advogado constituído substabelece, com reserva de poderes, ao advogado Guilherme Tkaczuk Artin, e requer que todas as intimações sejam feitas em nome de ambos, sob pena de nulidade (art. 272, § 5º, do CPC).
@@ -194,17 +192,19 @@ Sobre o assunto, Marcos Dessaune, em seu livro Desvio Produtivo do Consumidor �
 
 > "O desvio produtivo caracteriza-se quando o consumidor, diante de uma situação de mau atendimento, precisa desperdiçar o seu tempo e desviar as suas competências — de uma atividade necessária ou por ele preferida — para tentar resolver um problema criado pelo fornecedor, a um custo de oportunidade indesejado, de natureza irrecuperável."
 
-O Superior Tribunal de Justiça, conforme transcrito em acórdão da 7ª Câmara Cível deste Tribunal, já sintetizou a teoria nos seguintes termos:
+O Superior Tribunal de Justiça já definiu a teoria do desvio produtivo nos seguintes termos:
 
-> "a teoria do desvio produtivo parte do pressuposto de que haveria uma obrigação imposta aos fornecedores de garantir a otimização e o máximo aproveitamento dos recursos produtivos disponíveis na sociedade, entre eles, o tempo.Assim, para os seus partidários, a referida teoria seria aplicável sempre que o fornecedor buscar se eximir da sua responsabilidade de sanar os infortúnios criados aos consumidores de forma voluntária, tempestiva e efetiva, levando a parte vulnerável da relação a desperdiçar o seu tempo e a desviar de suas atividades normais para solucionar o problema que lhe foi imposto"(EDcl no AgInt no AREsp n. 2.393.261/BA, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 9/9/2024, DJe de 12/9/2024).
+> "a teoria do desvio produtivo parte do pressuposto de que haveria uma obrigação imposta aos fornecedores de garantir a otimização e o máximo aproveitamento dos recursos produtivos disponíveis na sociedade, entre eles, o tempo.Assim, para os seus partidários, a referida teoria seria aplicável sempre que o fornecedor buscar se eximir da sua responsabilidade de sanar os infortúnios criados aos consumidores de forma voluntária, tempestiva e efetiva, levando a parte vulnerável da relação a desperdiçar o seu tempo e a desviar de suas atividades normais para solucionar o problema que lhe foi imposto"
 
-No âmbito deste Tribunal, o Enunciado nº 8.3 das Turmas Recursais do Paraná, tal como transcrito no acórdão da 3ª Turma Recursal acima citado, consolida que "A ineficiência na solução administrativa do problema, com perda do tempo útil do consumidor, caracteriza dano moral indenizável."
+> (EDcl no AgInt no AREsp n. 2.393.261/BA, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 9/9/2024, DJe de 12/9/2024)
+
+No âmbito deste Tribunal, o Enunciado nº 8.3 das Turmas Recursais do Paraná, aplicado pela 3ª Turma Recursal no julgado acima citado (0036980-87.2025.8.16.0182), dispõe que "A ineficiência na solução administrativa do problema, com perda do tempo útil do consumidor, caracteriza dano moral indenizável."
 
 A terceira circunstância é a condição de pessoa idosa da Autora, que agrava a sua vulnerabilidade. Se todo consumidor é vulnerável no mercado de consumo (art. 4º, I, do CDC), a consumidora idosa é hipervulnerável, merecedora de proteção reforçada. O Estatuto da Pessoa Idosa (Lei nº 10.741/2003) dispõe em seu art. 3º que "É obrigação da família, da comunidade, da sociedade e do poder público assegurar à pessoa idosa, com absoluta prioridade, a efetivação do direito à vida, à saúde, à alimentação, à educação, à cultura, ao esporte, ao lazer, ao trabalho, à cidadania, à liberdade, à dignidade, ao respeito e à convivência familiar e comunitária", e em seu art. 4º que "Nenhuma pessoa idosa será objeto de qualquer tipo de negligência, discriminação, violência, crueldade ou opressão, e todo atentado aos seus direitos, por ação ou omissão, será punido na forma da lei".
 
-A 8ª Câmara Cível deste Tribunal, conforme precedente transcrito no mesmo acórdão da 7ª Câmara Cível, fixou em R$ 5.000,00 a indenização devida a consumidor idoso que precisou contatar o fornecedor inúmeras vezes para resolver vício em produto novo:
+A 8ª Câmara Cível deste Tribunal fixou em R$ 5.000,00 a indenização devida a consumidor idoso que precisou contatar o fornecedor inúmeras vezes para resolver vício em produto novo, ressaltando, ainda, as funções pedagógica e inibitória da condenação:
 
-> MÉRITO – RECURSO DO AUTOR – DANOS MORAIS – OCORRÊNCIA – SITUAÇÃO QUE ULTRAPASSA O MERO DISSABOR COTIDIANO – DEMANDANTE QUE É PESSOA IDOSA, COM OITENTA E UM ANOS – BEM NOVO, ADQUIRIDO PELA INTERNET – VÍCIO DO PRODUTO – AUTOR QUE TEVE QUE ENTRAR COM CONTATO COM A REQUERIDA INÚMERAS VEZES PARA RESOLVER A SITUAÇÃO – COMPROVAÇÃO DE ABALO EXTRAORDINÁRIO À HONRA – VIOLAÇÃO AOS DIREITOS DA PERSONALIDADE – DANO MORAL ARBITRADO EM R$ 5.000,00 (CINCO MIL REAIS) – SENTENÇA REFORMADA, PARA JULGAR PROCEDENTES OS PEDIDOS INICIAIS – REDISTRIBUIÇÃO DA SUCUMBÊNCIA.RECURSO DE APELAÇÃO CONHECIDO E PROVIDO.
+> APELAÇÃO CÍVEL – AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS – FALHA NA PRESTAÇÃO DO SERVIÇO DE VENDA DE MÁQUINA DE LAVAR LOUÇAS – SENTENÇA DE PARCIAL PROCEDÊNCIA. (...) MÉRITO – RECURSO DO AUTOR – DANOS MORAIS – OCORRÊNCIA – SITUAÇÃO QUE ULTRAPASSA O MERO DISSABOR COTIDIANO – DEMANDANTE QUE É PESSOA IDOSA, COM OITENTA E UM ANOS – BEM NOVO, ADQUIRIDO PELA INTERNET – VÍCIO DO PRODUTO – AUTOR QUE TEVE QUE ENTRAR COM CONTATO COM A REQUERIDA INÚMERAS VEZES PARA RESOLVER A SITUAÇÃO – COMPROVAÇÃO DE ABALO EXTRAORDINÁRIO À HONRA – VIOLAÇÃO AOS DIREITOS DA PERSONALIDADE – DANO MORAL ARBITRADO EM R$ 5.000,00 (CINCO MIL REAIS) – SENTENÇA REFORMADA, PARA JULGAR PROCEDENTES OS PEDIDOS INICIAIS – REDISTRIBUIÇÃO DA SUCUMBÊNCIA.RECURSO DE APELAÇÃO CONHECIDO E PROVIDO. (...) 2. Considerando-se as peculiaridades do caso concreto, as funções pedagógica e inibitória da reprimenda, o caráter compensatório pela aflição e intranquilidade causadas pelo ato ilícito, a gravidade e a duração da lesão, a possibilidade de quem deve reparar o dano e as condições econômicas e sociais do ofendido, necessário o arbitramento da indenização referente aos danos morais, em R$ 5.000,00 (cinco mil reais), quantia que se mostra razoável e proporcional.
 
 > (TJPR - 8ª Câmara Cível - 0012313-27.2023.8.16.0014 - Londrina - Rel.: SUBSTITUTO ADEMIR RIBEIRO RICHTER - J. 07.11.2024)
 
@@ -218,7 +218,7 @@ Nesse sentido, a 9ª Câmara Cível deste Tribunal, em julgamento de junho de 20
 
 > (TJPR - 9ª Câmara Cível - 0001926-59.2022.8.16.0087 - Guaraniaçu - Rel.: SUBSTITUTO GUILHERME FREDERICO HERNANDES DENZ - J. 15.06.2026)
 
-No mesmo acórdão, o Tribunal invocou a lição de Sergio Cavalieri Filho, segundo a qual "o juiz, ao valorar o dano moral, deve arbitrar uma quantia que, de acordo com o seu prudente arbítrio, seja compatível com a reprovabilidade da conduta ilícita, a intensidade e duração do sofrimento experimentado pela vítima, a capacidade econômica do causador do dano, as condições sociais do ofendido, e outras circunstâncias mais que se fizerem presentes", e destacou que, sendo as rés "pessoas jurídicas de elevado poder econômico", o valor de R$ 5.000,00 era "suficiente a proporcionar consolo às vítimas e cumprir a sua função pedagógica".
+No mesmo julgado, a 9ª Câmara Cível levou em conta que as rés eram "pessoas jurídicas de elevado poder econômico" e concluiu que o valor de R$ 5.000,00 era "suficiente a proporcionar consolo às vítimas e cumprir a sua função pedagógica".
 
 A 7ª Câmara Cível, por sua vez, ao julgar caso de eletrodoméstico essencial com tentativas frustradas de solução extrajudicial, majorou a indenização ao mesmo patamar, "bem ponderados os princípios da proporcionalidade e da razoabilidade, bem como a finalidade dúplice da condenação (compensatória/reparatória para a autora e repressiva/preventiva/pedagógica para a ré)":
 
